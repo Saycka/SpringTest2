@@ -1,3 +1,4 @@
 # SpringTest2
 
-no work (index.html - 404)
+404 error
+index.html + Mustache 
