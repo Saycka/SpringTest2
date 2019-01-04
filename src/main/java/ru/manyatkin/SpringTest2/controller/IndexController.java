@@ -13,6 +13,6 @@ public class IndexController {
     public ModelAndView index() {
         Map<String, String> model = new HashMap<>();
         model.put("name", "Alexey");
-        return new ModelAndView("index", model);
+        return new ModelAndView("index.html", model);
     }
 }
